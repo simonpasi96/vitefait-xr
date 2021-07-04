@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vitefait-xr
 - 👀 I’m interested in Unity scripts.
 - 🌱 I’m currently learning how to write short and clean scripts.
-- 💞️ I’m looking to collaborate on making useful tools.
+- 💞️ I’m looking to collaborate on making useful tools for Unity.
 - 📫 Reach out to me on Twitter https://twitter.com/vitefait_2
 
 <!---
